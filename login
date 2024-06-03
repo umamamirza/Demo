@@ -48,11 +48,6 @@
                     <form>
 
                         <div class="mb-3">
-                            <label for="name" class="form-label">Name</label>
-                            <input type="name" class="form-control" id="name" placeholder="Enter your Name">
-                        </div>
-
-                        <div class="mb-3">
                             <label for="email" class="form-label">Email address</label>
                             <input type="email" class="form-control" id="email" placeholder="Enter your Email">
                         </div>
